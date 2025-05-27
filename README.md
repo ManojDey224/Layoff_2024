@@ -1,4 +1,5 @@
 **Layoffs Data Analysis 2024**
+
 This repository is hereby established for the purpose of housing a comprehensive dataset pertaining to corporate layoffs, complemented by a Jupyter Notebook specifically engineered for its analytical examination. The paramount objective of this undertaking is to conduct a meticulous investigation and subsequent elucidation of the prevailing trends, the extant distributional patterns, and the intrinsic relationships discernible within the provided layoff data.
 
 **Constituent Files of This Repository**
