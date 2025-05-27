@@ -10,7 +10,7 @@ layoff2024.ipynb This Jupyter Notebook encapsulates the Python programming code 
 
 **Overview of layoff2024.ipynb Notebook Operations**
 
-The layoff2024.ipynbnotebook systematically executes the following principal tasks, each articulated with rigorous precision:
+The layoff2024.ipynb notebook systematically executes the following principal tasks, each articulated with rigorous precision:
 
 **1. Data Ingestion**
 
@@ -49,7 +49,7 @@ For the execution of this analysis within a local computing environment, adheren
 **1. Repository Cloning:**
 
 
-git clone https://github.com/your-username/Layoffs-Data-Analysis-2024.git
+git clone https://github.com/ManojDey224/Layoffs-Data-Analysis-2024.git
 cd Layoffs-Data-Analysis-2024
 
 (It is hereby stipulated that your-username and Layoffs-Data-Analysis-2024 shall be replaced with the designated GitHub username and repository name, respectively, should any modifications have been implemented subsequent to the repository's initial creation.)
