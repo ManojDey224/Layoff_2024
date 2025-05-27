@@ -49,7 +49,7 @@ For the execution of this analysis within a local computing environment, adheren
 **1. Repository Cloning:**
 
 
-git clone https://github.com/ManojDey224/Layoffs-Data-Analysis-2024.git
+git clone https://github.com/ManojDey224/Layoffs_2024.git
 cd Layoffs-Data-Analysis-2024
 
 (It is hereby stipulated that your-username and Layoffs-Data-Analysis-2024 shall be replaced with the designated GitHub username and repository name, respectively, should any modifications have been implemented subsequent to the repository's initial creation.)
