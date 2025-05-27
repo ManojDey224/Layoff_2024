@@ -4,9 +4,9 @@ This repository is hereby established for the purpose of housing a comprehensive
 
 **Constituent Files of This Repository**
 
-layoffs_data.csvThis comma-separated values (CSV) file constitutes the unadulterated dataset concerning corporate layoffs.
+layoffs_data.csv This comma-separated values (CSV) file constitutes the unadulterated dataset concerning corporate layoffs.
 
-layoff2024.ipynbThis Jupyter Notebook encapsulates the Python programming code specifically designated for the processes of data ingestion, preliminary exploratory analysis, systematic data wrangling, and the subsequent graphical visualisation of the layoffs_data.csvfile.
+layoff2024.ipynb This Jupyter Notebook encapsulates the Python programming code specifically designated for the processes of data ingestion, preliminary exploratory analysis, systematic data wrangling, and the subsequent graphical visualisation of the layoffs_data.csvfile.
 
 **Overview of layoff2024.ipynb Notebook Operations**
 
